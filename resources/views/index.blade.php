@@ -37,7 +37,7 @@
               veritatis? Dicta facilis sint aliquid ipsum atque?
             </p> --}}
           </div>
-  
+          {{-- qwsadad --}}
           <div class="col-lg-4 mb-5 mb-lg-0">
             <div class="card">
               <div class="card-body py-5 px-md-5">
