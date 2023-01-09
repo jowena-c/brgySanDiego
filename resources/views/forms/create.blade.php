@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body style="background-color: #11101D">
+    {{-- valorant --}}
     <div class="container mt-5">
         <div class="card">
             <div class="card-header">
